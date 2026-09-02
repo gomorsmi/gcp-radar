@@ -22,7 +22,7 @@ gcp_radar/
 
 ```bash
 # Clone and install in editable mode
-git clone https://github.com/yourname/gcp-radar.git
+git clone https://github.com/gomorsmi/gcp-radar.git
 cd gcp-radar
 pip install -e ".[dev]"
 
