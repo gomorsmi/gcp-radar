@@ -21,7 +21,7 @@ pip install gcp-radar
 Or from source:
 
 ```bash
-git clone https://github.com/yourname/gcp-radar.git
+git clone https://github.com/gomorsmi/gcp-radar.git
 cd gcp-radar
 pip install -e .
 ```
@@ -116,4 +116,4 @@ Pull requests welcome! Please open an issue first to discuss changes.
 
 ## Support
 
-GitHub Issues: https://github.com/yourname/gcp-radar/issues
+GitHub Issues: https://github.com/gomorsmi/gcp-radar/issues
